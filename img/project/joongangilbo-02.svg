@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="620px" height="498px" viewBox="0 0 620 498" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Joongangilbo" transform="translate(-410.000000, -3029.000000)">
+            <g id="Group-2" transform="translate(410.000000, 3026.000000)">
+                <text id="Design-keyword" font-family="Muli-ExtraBold, Muli ExtraBold" font-size="14" font-weight="600" letter-spacing="-0.2625" fill="#1A1A1A">
+                    <tspan x="12.2445" y="14">Design keyword</tspan>
+                </text>
+                <text id="TO-BE" font-family="Muli-ExtraBold, Muli ExtraBold" font-size="14" font-weight="600" letter-spacing="-0.2625" fill="#A69885">
+                    <tspan x="290.45025" y="14">TO BE</tspan>
+                </text>
+                <text id="Elements" font-family="Muli-ExtraBold, Muli ExtraBold" font-size="14" font-weight="600" letter-spacing="-0.2625" fill="#1A1A1A">
+                    <tspan x="525.278" y="14">Elements</tspan>
+                </text>
+                <ellipse id="Oval" fill="#A69885" cx="65" cy="113.5" rx="65" ry="65.5"></ellipse>
+                <ellipse id="Oval-Copy-3" fill="#1A1A1A" cx="555" cy="113.5" rx="65" ry="65.5"></ellipse>
+                <ellipse id="Oval-Copy" fill="#A69885" cx="65" cy="274.5" rx="65" ry="65.5"></ellipse>
+                <ellipse id="Oval-Copy-4" fill="#1A1A1A" cx="555" cy="274.5" rx="65" ry="65.5"></ellipse>
+                <ellipse id="Oval-Copy-2" fill="#A69885" cx="65" cy="435.5" rx="65" ry="65.5"></ellipse>
+                <ellipse id="Oval-Copy-5" fill="#1A1A1A" cx="555" cy="435.5" rx="65" ry="65.5"></ellipse>
+                <text id="Concentration" font-family="Muli-ExtraBold, Muli ExtraBold" font-size="13" font-weight="600" fill="#FFFFFF">
+                    <tspan x="20.6695" y="119">Concentration</tspan>
+                </text>
+                <text id="Grid-Font" font-family="Muli-ExtraBold, Muli ExtraBold" font-size="13" font-weight="600" line-spacing="20" fill="#FFFFFF">
+                    <tspan x="541.6165" y="106">Grid</tspan>
+                    <tspan x="540.7585" y="127">Font</tspan>
+                </text>
+                <text id="Intuition" font-family="Muli-ExtraBold, Muli ExtraBold" font-size="13" font-weight="600" fill="#FFFFFF">
+                    <tspan x="39.0125" y="280">Intuition</tspan>
+                </text>
+                <text id="Layout-Functional-UI" font-family="Muli-ExtraBold, Muli ExtraBold" font-size="13" font-weight="600" line-spacing="20" fill="#FFFFFF">
+                    <tspan x="533.6925" y="267">Layout</tspan>
+                    <tspan x="513.7505" y="288">Functional UI</tspan>
+                </text>
+                <text id="Attraction" font-family="Muli-ExtraBold, Muli ExtraBold" font-size="13" font-weight="600" fill="#FFFFFF">
+                    <tspan x="33.0845" y="441">Attraction</tspan>
+                </text>
+                <text id="Style-Icon-Color" font-family="Muli-ExtraBold, Muli ExtraBold" font-size="13" font-weight="600" line-spacing="20" fill="#FFFFFF">
+                    <tspan x="539.7245" y="418">Style</tspan>
+                    <tspan x="542.3375" y="439">Icon</tspan>
+                    <tspan x="538.7495" y="460">Color</tspan>
+                </text>
+                <path d="M450,115 L170,276.230769" id="Line" stroke="#A69885" stroke-width="2" opacity="0.06" stroke-linecap="square"></path>
+                <path d="M171,276 L450,436.738462" id="Line-2" stroke="#A69885" stroke-width="2" opacity="0.06" stroke-linecap="square"></path>
+                <path d="M171,115 L450,275.726923" id="Line-3" stroke="#A69885" stroke-width="2" opacity="0.06" stroke-linecap="square"></path>
+                <path d="M450,115 L171,436.453846" id="Line-4" stroke="#A69885" stroke-width="2" opacity="0.06" stroke-linecap="square"></path>
+                <rect id="Rectangle" fill="#A69885" x="170" y="113" width="280" height="2"></rect>
+                <rect id="Rectangle-Copy" fill="#A69885" x="170" y="274" width="280" height="2"></rect>
+                <rect id="Rectangle-Copy-2" fill="#A69885" x="170" y="435" width="280" height="2"></rect>
+                <text id="정보를-규격화하고,-불필요한-요소를" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="12" font-weight="bold" letter-spacing="-0.225" fill="#A69885">
+                    <tspan x="211.237" y="99">정보를 규격화하고, 불필요한 요소를 제거</tspan>
+                </text>
+                <text id="기능적-UI-개선으로-패턴화된-읽기" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="12" font-weight="bold" letter-spacing="-0.225" fill="#A69885">
+                    <tspan x="199.425" y="260">기능적 UI 개선으로 패턴화된 읽기 경험을 제공</tspan>
+                </text>
+                <text id="브랜드를-각인시켜-직접유입을-유도," font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="12" font-weight="bold" letter-spacing="-0.225" fill="#A69885">
+                    <tspan x="194.265" y="421">브랜드를 각인시켜 직접유입을 유도, 브랜드 제고</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

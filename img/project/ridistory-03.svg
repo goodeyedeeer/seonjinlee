@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="734px" height="182px" viewBox="0 0 734 182" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Group 58</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="RIDI-Story" transform="translate(-337.000000, -3540.000000)">
+            <g id="Group-58" transform="translate(338.000000, 3541.000000)">
+                <g id="Group-43">
+                    <path d="M8,0 L172,0 C176.418278,-8.11624501e-16 180,3.581722 180,8 L180,172 C180,176.418278 176.418278,180 172,180 L8,180 C3.581722,180 5.41083001e-16,176.418278 0,172 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z" id="Base" stroke="#E6E8EB" fill="#FFFFFF"></path>
+                    <g id="Group-8" transform="translate(45.000000, 46.000000)">
+                        <text id="가A" font-family="NotoSansCJKkr-Medium, Noto Sans CJK KR" font-size="50" font-weight="400" line-spacing="60" fill="#333333">
+                            <tspan x="4" y="58">가A</tspan>
+                        </text>
+                        <text id="Noto-Sans-CJK-KR" font-family="Helvetica-Bold, Helvetica" font-size="10" font-weight="bold" fill="#808991">
+                            <tspan x="0.2734375" y="80">Noto Sans CJK KR</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group-3" transform="translate(240.000000, 8.000000)">
+                    <text id="콘텐츠-중심의-쉽고-편리한-플랫폼-/" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="26" font-weight="normal" line-spacing="35" letter-spacing="-1.733333" fill="#333333">
+                        <tspan x="0" y="30">콘텐츠 중심의 쉽고 편리한 플랫폼 / Regular / 26px</tspan>
+                    </text>
+                    <text id="콘텐츠-중심의-쉽고-편리한-플랫폼-/" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="16" font-weight="normal" fill="#4D4D4D">
+                        <tspan x="0" y="63">콘텐츠 중심의 쉽고 편리한 플랫폼 / Regular / 16px</tspan>
+                    </text>
+                    <text id="콘텐츠-중심의-쉽고-편리한-플랫폼-/" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="14" font-weight="bold" letter-spacing="-0.5833332" fill="#808080">
+                        <tspan x="0" y="128">콘텐츠 중심의 쉽고 편리한 플랫폼 / Bold / 14px</tspan>
+                    </text>
+                    <text id="콘텐츠-중심의-쉽고-편리한-플랫폼-/" font-family="SpoqaHanSans-Regular, SpoqaHanSans" font-size="15" font-weight="normal" letter-spacing="-0.2142857" fill="#666666">
+                        <tspan x="0" y="96">콘텐츠 중심의 쉽고 편리한 플랫폼 / Regular / 15px</tspan>
+                    </text>
+                    <text id="콘텐츠-중심의-쉽고-편리한-플랫폼-/" font-family="SpoqaHanSans-Regular, SpoqaHanSans" font-size="12" font-weight="normal" fill="#999999">
+                        <tspan x="0" y="159">콘텐츠 중심의 쉽고 편리한 플랫폼 / Regular / 12px</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
