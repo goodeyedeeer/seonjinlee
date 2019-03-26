@@ -59,6 +59,8 @@ a {
     -moz-transition: opacity 0.3s ease-out;
     -webkit-transition: opacity 0.3s ease-out;
     -o-transition: opacity 0.3s ease-out;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-tap-highlight-color: transparent;
 }
 a:hover {
     opacity: .5;
@@ -447,6 +449,8 @@ a {
     -moz-transition: opacity 0.3s ease-out;
     -webkit-transition: opacity 0.3s ease-out;
     -o-transition: opacity 0.3s ease-out;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-tap-highlight-color: transparent;
 }
 a:hover {
     opacity: .5;
@@ -831,6 +835,8 @@ a {
     -moz-transition: opacity 0.3s ease-out;
     -webkit-transition: opacity 0.3s ease-out;
     -o-transition: opacity 0.3s ease-out;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-tap-highlight-color: transparent;
 }
 a:hover {
     opacity: .5;
