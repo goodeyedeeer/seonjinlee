@@ -663,6 +663,8 @@ img {
     font-size: 18px;
     font-weight: 400;
     color: #333333;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    -webkit-tap-highlight-color: transparent;
 }
 
 /*modal menu end*/
