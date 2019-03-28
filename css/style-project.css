@@ -361,7 +361,7 @@ img {
     transition: opacity 0.5s ease-in-out;
 }
 .slide-img {
-    height: 100%;
+    height: auto;
     display: block;
     margin: 0 auto;
 }
@@ -792,8 +792,8 @@ img {
     display: inline-block;
     max-width: 100%;
     height: auto;
-    background-color: #f5f6fa;
-padding: 0 0 0 40px;
+    background-color: #CDD2D8;
+    padding: 0 0 0 40px;
 
 }
 .small-device1 {
@@ -801,7 +801,7 @@ padding: 0 0 0 40px;
     max-width: 100%;
     height: auto;
     padding: 0 40px;
-background: #f5f6fa;
+    background: #f5f6fa;
 }
 }
 
@@ -1253,8 +1253,8 @@ img {
     display: inline-block;
     max-width: 100%;
     height: auto;
-    background-color: #f5f6fa;
-padding: 0 0 0 20px;
+    background-color: #CDD2D8;
+    padding: 0 0 0 20px;
 
 }
 .small-device1 {
@@ -1264,5 +1264,4 @@ padding: 0 0 0 20px;
     padding: 0 20px;
 
 }
-
 }
